@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     path: ch05/manifests/
-    repoURL: https://github.com/sabre1041/argocd-up-and-running-book
+    repoURL: https://github.com/SimoMarrouss/argocd-up-and-running-book
     targetRevision: main
   destination:
     namespace: pricelist
